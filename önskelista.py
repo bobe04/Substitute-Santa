@@ -1,3 +1,8 @@
+#Gustav Wallin
+#Teinf20
+#14/12/2021
+
+
 options = list()
 genre = input("Vems önskelista?: ")
 print("Skrive klar, när du är färdig")
